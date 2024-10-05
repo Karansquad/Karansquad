@@ -14,6 +14,7 @@
     <a href="https://giphy.com/gifs/love-90s-butterfly-UBRm7jRMXrpxuKVeqd">via GIPHY</a>
 </p>
 
+
 ---
 
 ## 🔥 Top Languages & Tools
@@ -37,7 +38,7 @@
 ---
 
 ## 🎧 Spotify Now Playing 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/evopfopw4vyqhzarjdqej5ruu)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/2OWmJsbEa7YtPvzMqBf9Oo?utm_source=generator&theme=0)
 
 
 ---
