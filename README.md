@@ -3,13 +3,15 @@
 
 ---
 
-[![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karansquad&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karansquad&show_icons=true&theme=radical)](https://github.com/yourusername) [![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansquad&theme=github)](https://github.com/karansquad)
+
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karansquad&layout=compact&theme=radical)](https://github.com/yourusername)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=karansquad&theme=radical)](https://git.io/streak-stats)
 
-[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karansquad&theme=github)](https://github.com/karansquad)
+
 
 [![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/karansquad)
 
