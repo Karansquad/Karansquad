@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=karansquad&theme=radical)](https://git.io/streak-stats)
 
-[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karansquad&theme=github)](https://github.com/yourusername)
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karansquad&theme=github)](https://github.com/karansquad)
 
 [![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/karansquad)
 
