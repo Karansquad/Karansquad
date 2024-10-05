@@ -1,8 +1,8 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://github.com/karansquad">Karan Saini</a></h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer+and+DSA+Enthusiast!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
-</p>
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer+and+DSA+Enthusiast!;&font=Fira%20Code&center=true&width=440&height=45&color=gradient&vCenter=true&size=22&background=linear-gradient(to right, #ff7e5f, #feb47b)">
+</p>  
 
 <h1 align="center"><strong>Turning Coffee ☕ into Code 💻</strong></h1>
 
