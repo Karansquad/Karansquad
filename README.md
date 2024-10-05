@@ -1,10 +1,18 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://github.com/karansquad">Karan Saini</a></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer+and+DSA+Enthusiast!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer+and+DSA+Enthusiast!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
 </p>
 
-<h1 align="center"><strong> Turning Coffee ☕ into Code 💻</strong></h1>
+<h1 align="center"><strong>Turning Coffee ☕ into Code 💻</strong></h1>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/UBRm7jRMXrpxuKVeqd/giphy.gif" alt="Butterfly GIF" />
+</div>
+
+<p align="center">
+    <a href="https://giphy.com/gifs/love-90s-butterfly-UBRm7jRMXrpxuKVeqd">via GIPHY</a>
+</p>
 
 ---
 
@@ -53,4 +61,4 @@
 ## 🎨 Fun Fact
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
-
+---
