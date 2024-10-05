@@ -1,6 +1,29 @@
-✨ Karan Saini ✨
+# ✨ Karan Saini ✨
+**_Turning Coffee ☕ into Code 💻_**
 
-Turning Coffee ☕ into Code 💻
+---
+
+[![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karansquad&show_icons=true&theme=radical)](https://github.com/yourusername)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karansquad&layout=compact&theme=radical)](https://github.com/yourusername)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=karansquad&theme=radical)](https://git.io/streak-stats)
+
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karansquad&theme=github)](https://github.com/yourusername)
+
+[![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/karansquad)
+
+![Profile Views](https://komarev.com/ghpvc/?username=karansquad&label=PROFILE+VIEWS&color=blue&style=flat)
+
+
+---
+
+### 💬 Let’s Chat:
+Feel free to connect via:
+- [LinkedIn](https://www.linkedin.com/in/karan-saini-0a8038248/)
+- [Twitter](https://x.com/karansquad2)
+
+
 
 -----------------------------------------------
 
@@ -54,9 +77,10 @@ When I'm not coding, I'm probably sketching ideas or diving into the latest tech
 
 -----------------------------------------------
 
-💬 Let’s Chat
-
-Feel free to reach out if you're into tech, code, or just want to talk about cool ideas! I’m always up for a great conversation.
+### 💬 Let’s Chat:
+Feel free to connect via:
+- [LinkedIn](https://www.linkedin.com/in/karan-saini-0a8038248/)
+- [Twitter](https://x.com/karansquad2)
 
 
 -----------------------------------------------
