@@ -1,5 +1,10 @@
-# ✨ Karan Saini ✨
-**_Turning Coffee ☕ into Code 💻_**
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <a href="https://github.com/karansquad">Karan Saini</a></h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer+and+DSA+Enthusiast!;&font=Fira%20Code&center=true&width=440&height=45&color=F7F7F7&vCenter=true&size=22">
+</p>
+
+<h1 align="center"><strong> Turning Coffee ☕ into Code 💻</strong></h1>
 
 ---
 
@@ -12,8 +17,6 @@
 ## 🏆 Trophies & Contributions
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=karansquad&theme=radical)](https://github.com/karansquad)
-
-![GitHub Snake](https://github.com/karansquad/karansquad/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -50,37 +53,4 @@
 ## 🎨 Fun Fact
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
----
 
-## 📂 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karansquad&repo=RepoName&theme=radical)](https://github.com/karansquad/RepoName)
-
----
-
-## 📖 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ✨ Philosophy
-_"Don't just code to work; code to build something extraordinary."_
-
----
-
-## 📚 Recent GitHub Gist
-[![Gist](https://github-readme-stats.vercel.app/api/gist?username=karansquad&theme=radical)](https://gist.github.com/karansquad)
-
----
-
-## 📝 Markdown Skills Table
-
-| Languages  | Frameworks & Tools   | Other Skills   |
-| ---------- | -------------------- | -------------- |
-| Python     | React, AWS           | Figma          |
-| C++        | Git, GitHub          | Graphic Design |
-
----
-
-## 🔄 Latest Commits
-![GitHub Commit](https://github-readme-stats.vercel.app/api?username=karansquad&show_icons=true&theme=radical&count_private=true)
